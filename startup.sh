@@ -15,5 +15,5 @@ sudo spctl --master-disable;
 
 #homebrew install packages
 brew update;
-brew install git kubectl htop openssh;
+brew install git kubectl htop openssh wget;
 
