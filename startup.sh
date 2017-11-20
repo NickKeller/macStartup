@@ -15,5 +15,8 @@ sudo spctl --master-disable;
 
 #homebrew install packages
 brew update;
-brew install git kubectl htop openssh wget;
+brew install git kubectl htop openssh wget python;
+
+#some python pip2 stuff, installing glances
+pip2 install glances
 
